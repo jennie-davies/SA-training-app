@@ -8,6 +8,8 @@ Author: Jennifer Davies.
 
 Disclaimer: licence.txt applies.
 
+Data: Source ONS
+
 
 Overview:
 ---------
@@ -25,7 +27,6 @@ Overview:
 		- overlay graph comparing the original series and two trends
 		- SI ratio charts for both seasonal adjustments
 		- table with the specifications selected by a defualt seasonal adjustment
-	- data source ONS
 	
 Quick guide:
 ------------
